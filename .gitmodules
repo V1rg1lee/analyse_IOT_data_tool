@@ -1,0 +1,3 @@
+[submodule "dataset2/trace_analyzer"]
+	path = dataset2/trace_analyzer
+	url = https://github.com/mdevolde/trace_analyzer
