@@ -1,3 +1,6 @@
 [submodule "dataset2/trace_analyzer"]
 	path = dataset2/trace_analyzer
 	url = https://github.com/mdevolde/trace_analyzer
+[submodule "dataset1/csv-analyser-iot-data"]
+	path = dataset1/csv-analyser-iot-data
+	url = https://github.com/V1rg1lee/csv-analyser-iot-data
