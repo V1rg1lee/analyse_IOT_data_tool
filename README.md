@@ -30,6 +30,9 @@ The tools and methodologies documented here aim to:
 ## How to Use
 Each tool is explained in its respective section, along with guidelines on how to apply them to the datasets. Please refer to the respective documentation files for detailed usage instructions.
 
+## Data
+For each dataset, in its respective folder, there is a "data" folder with all the generated graphs. You can generate them yourself by going to the tool folder linked to the dataset and following the instructions.
+
 ## Acknowledgments
 This work is part of the academic requirements for the course **ELEC-H550 - Embedded System Security**. Special thanks to the course instructors for their guidance and support.
 
